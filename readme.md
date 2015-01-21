@@ -1,4 +1,4 @@
 pasture, a hugo theme
 
-### via
+### provenance
 Hyde-X, itself from [Hyde](https://github.com/poole/hyde) theme.
