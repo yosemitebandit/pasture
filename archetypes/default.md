@@ -1,6 +1,5 @@
 +++
-title = ""
 description = ""
 tags = []
-menu = ""
+title = ""
 +++
